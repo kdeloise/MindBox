@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox", "MindBox\MindBox.csproj", "{53C4458F-8E4D-462A-B25F-571E02F7FE6D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAreaLibrary", "CalculateAreaLibrary\CalculateAreaLibrary.csproj", "{19E0A428-01A2-4C0B-994D-4012B4CCD256}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAreaLibrary.Tests", "CalculateAreaLibrary.Tests\CalculateAreaLibrary.Tests.csproj", "{E48ECD14-E2D0-4931-9C67-8B0B798C88F3}"
@@ -12,10 +10,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53C4458F-8E4D-462A-B25F-571E02F7FE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53C4458F-8E4D-462A-B25F-571E02F7FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53C4458F-8E4D-462A-B25F-571E02F7FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53C4458F-8E4D-462A-B25F-571E02F7FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19E0A428-01A2-4C0B-994D-4012B4CCD256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19E0A428-01A2-4C0B-994D-4012B4CCD256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E0A428-01A2-4C0B-994D-4012B4CCD256}.Release|Any CPU.ActiveCfg = Release|Any CPU
