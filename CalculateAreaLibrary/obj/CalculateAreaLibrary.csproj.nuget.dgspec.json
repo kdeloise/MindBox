@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\123\\Desktop\\LessonLibrary\\C#\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj": {}
+    "C:\\Users\\123\\Documents\\GitHub\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\123\\Desktop\\LessonLibrary\\C#\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj": {
+    "C:\\Users\\123\\Documents\\GitHub\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\123\\Desktop\\LessonLibrary\\C#\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\123\\Documents\\GitHub\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj",
         "projectName": "CalculateAreaLibrary",
-        "projectPath": "C:\\Users\\123\\Desktop\\LessonLibrary\\C#\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj",
+        "projectPath": "C:\\Users\\123\\Documents\\GitHub\\MindBox\\CalculateAreaLibrary\\CalculateAreaLibrary.csproj",
         "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\123\\Desktop\\LessonLibrary\\C#\\MindBox\\CalculateAreaLibrary\\obj\\",
+        "outputPath": "C:\\Users\\123\\Documents\\GitHub\\MindBox\\CalculateAreaLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",

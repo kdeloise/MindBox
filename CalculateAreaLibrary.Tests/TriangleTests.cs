@@ -84,5 +84,34 @@ namespace CalculateAreaLibrary.Tests
             act.Should().Throw<ArgumentException>()
                 .WithMessage("Each side of the triangle must be greater than 0");
         }
+        
+        [Theory]
+        [InlineData(3, 4, 5)]
+        public void CheckRightTriangleTrueTest(double a, double b, double c)
+        {
+            //Arrange
+            var triangle = new Triangle(a, b, c);
+            
+            //Act
+            var result = triangle.IsRightTriangle;
+            
+
+            //Assert
+            result.Should().Be(true);
+        }
+        
+        [Theory]
+        [InlineData(3, 5, 5)]
+        public void CheckRightTriangleFalseTest(double a, double b, double c)
+        {
+            //Arrange
+            var triangle = new Triangle(a, b, c);
+            
+            //Act
+            var result = triangle.IsRightTriangle;
+
+            //Assert
+            result.Should().Be(false);
+        }
     }
 }

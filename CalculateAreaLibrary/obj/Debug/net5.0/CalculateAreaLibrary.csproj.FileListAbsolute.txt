@@ -10,3 +10,15 @@ C:\Users\123\Desktop\LessonLibrary\C#\MindBox\CalculateAreaLibrary\obj\Debug\net
 C:\Users\123\Desktop\LessonLibrary\C#\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.dll
 C:\Users\123\Desktop\LessonLibrary\C#\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\ref\CalculateAreaLibrary.dll
 C:\Users\123\Desktop\LessonLibrary\C#\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.pdb
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\bin\Debug\net5.0\CalculateAreaLibrary.deps.json
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\bin\Debug\net5.0\CalculateAreaLibrary.dll
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\bin\Debug\net5.0\ref\CalculateAreaLibrary.dll
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\bin\Debug\net5.0\CalculateAreaLibrary.pdb
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.csproj.AssemblyReference.cache
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.AssemblyInfoInputs.cache
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.dll
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\ref\CalculateAreaLibrary.dll
+C:\Users\123\Documents\GitHub\MindBox\CalculateAreaLibrary\obj\Debug\net5.0\CalculateAreaLibrary.pdb
